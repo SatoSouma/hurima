@@ -1,0 +1,156 @@
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance:textfield;
+}
+*{
+  list-style-type: none;
+  box-sizing: border-box;/*ボックスのwidthやheightはpaddingやborderを含む */
+}
+.none{
+  display: none;
+}
+body{
+  background-position: center center;
+  background-attachment:fixed;
+  background-size:contain;
+  box-sizing: border-box;
+}
+header{
+  background-color: #fff;
+  width: 100%;
+  height: 100px;
+  border-bottom: 3px solid black;
+  position: fixed;
+  z-index: 999;
+  /* border-top: 1px solid springgreen;
+  position: fixed; */
+}
+main{
+  padding-top: 110px;
+}
+header a{
+    transition: color 0.3s;
+    text-decoration: none;
+}
+header a:hover{
+    color: orange;
+    text-decoration: none;
+}
+.main{
+    padding-top: 100px;
+}
+.colpro{
+    width: 70%;
+    margin: 0 auto;
+    padding-bottom: 5%;
+}
+.pro{
+    box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.5);
+    width: 20%;
+}
+.pro3{
+    margin-right: 6.66%;
+}
+.img{
+    width: 100%;
+    position: relative;
+}
+.img::before{
+    content: '';
+    display:block;
+    padding-top:50%;
+  }
+.pro_img{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: auto;
+    width: auto;
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+}
+.price{
+    margin-bottom: 0;
+    border-top: 1px solid black;
+}
+.pro_info{
+    margin-bottom: 0;
+    font-size: 1.2em;
+}
+.text{
+    margin: 100px;
+}
+.zz{
+    margin: 0 0 0 auto;
+    padding-right: 2%;
+}
+.user{
+    margin-right: 20px;
+}
+.hh{
+    width: 98%;
+}
+.serz{
+    width: 60%;
+    margin: 0 auto;
+}
+form{
+    width: 100%;
+    padding-top:5px;
+    padding-bottom: 2.5%;
+    margin: 0 auto;
+    position: fixed;
+    z-index: 998;
+}
+.ser{
+    width: 90%;
+}
+.serbtn{
+    width: 10%;
+}
+.circle{
+    color: #fff;
+    background-color:#f00;
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+}
+.circle:hover{
+    color: #fff;
+    background-color:#B7282E;
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+}
+.sell{
+    width: auto;
+    display: inline-block;
+}

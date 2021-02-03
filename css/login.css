@@ -1,0 +1,21 @@
+body{
+  height: 100%;
+}
+.mainbox{
+  width: 50%;
+  height: auto;
+  margin: 0 auto;
+  /* border: 1px solid black; */
+  margin-top: 2%;
+  margin-bottom: 1%;
+  border-radius: 10px;
+}
+.main{
+  width: 60%;
+  height: 300px;
+  margin: 0 auto;
+  margin-top: 5%;
+}
+.sign{
+  margin-top: 150px;
+}

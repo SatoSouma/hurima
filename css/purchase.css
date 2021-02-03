@@ -1,0 +1,26 @@
+.mainbox{
+  width: 60%;
+  margin: 0 auto;
+  border: 1px solid gray;
+  margin-top: 2%;
+  margin-bottom: 1%;
+  border-radius: 10px;
+}
+.main{
+  width: 70%;
+  margin: 0 auto;
+  padding-top: 1%;
+}
+.label{
+  width: 50%;
+  height: 100%;
+}
+.input{
+  width: 100%;
+}
+ul{
+  padding-left: 0;
+}
+li{
+  font-size: 0.7em;
+}

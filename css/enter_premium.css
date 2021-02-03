@@ -1,0 +1,22 @@
+header{
+}
+.mainbox{
+  width: 50%;
+  height: 500px;
+  margin: 0 auto;
+  margin-top: 1%;
+  border: 1px solid gray;
+  margin-bottom: 1%;
+  border-radius: 10px;
+}
+.main{
+  width: 60%;
+  margin: 0 auto;
+  padding-top: 1%;
+}
+form{
+  margin-top: 20%;
+}
+.button{
+  margin-top: 50%;
+}

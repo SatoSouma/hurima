@@ -1,0 +1,15 @@
+body{
+  height: 100%;
+}
+.main{
+  width: 60%;
+  height: 300px;
+  margin: 0 auto;
+  margin-top: 5%;
+}
+.sign{
+  margin-top: 150px;
+}
+.back{
+  margin-top: 10px;
+}

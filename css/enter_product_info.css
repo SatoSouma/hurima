@@ -1,0 +1,75 @@
+.mainbox{
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 2%;
+  margin-bottom: 1%;
+  border: 1px solid gray;
+  border-radius: 10px;
+}
+.main{
+  width: 60%;
+  margin: 0 auto;
+  padding-top: 1%;
+}
+.label{
+  width: 50%;
+  height: 100%;
+}
+.birth{
+  width: 33%;
+  height: 100%;
+}
+.select{
+  width: 25%;
+}
+.insert{
+}
+input{
+  height: 10px;
+}
+.la{
+}
+ul{
+  padding-left: 0;
+}
+li{
+  font-size: 0.9em;
+}
+.input{
+  width:100%;
+}
+.size{
+  padding-left: 10%;
+}
+.ch{
+  width: 33%;
+
+}
+.f{
+  margin-bottom: 5px;
+}
+.pp{
+}
+.st{
+  width: 40%;
+}
+.sz{
+  width:15% ;
+  height: 100%;
+  margin: 0 auto;
+  font-size: 0.5em;
+}
+.szl{
+  margin: 0 auto;
+}
+.szz{
+  width: 45%;
+}
+textarea{
+  resize: none;
+  height: 200px;
+}
+select{
+  border: 1px;
+  font-size: 0.7em;
+}

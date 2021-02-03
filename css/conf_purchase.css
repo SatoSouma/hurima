@@ -1,0 +1,27 @@
+/* .mainbox{
+  width: 50%;
+  margin: 0 auto;
+  border: 1px solid black;
+  margin-top: 2%;
+  margin-bottom: 1%;
+} */
+.main{
+  width: 60%;
+  margin: 0 auto;
+  padding-top: 1%;
+}
+th{
+  color: white;
+}
+.ok{
+  width: 80%;
+  margin: 0 auto;
+  border: 1px solid gray;
+  margin-top: 2%;
+  margin-bottom: 1%;
+  border-radius: 10px;
+}
+.okk{
+  width: 90%;
+  margin: 0 auto;
+}

@@ -1,0 +1,14 @@
+/* .mainbox{
+  width: 50%;
+  margin: 0 auto;
+  border: 1px solid black;
+  margin-top: 2%;
+  margin-bottom: 1%;
+} */
+.main{
+  width: 60%;
+  margin: 0 auto;
+}
+th{
+  color: white;
+}

@@ -1,0 +1,28 @@
+
+.mainbox{
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+  margin-top: 1%;
+  border: 1px solid gray;
+  border-radius: 10px;
+  margin-bottom: 1%;
+}
+.main{
+  width: 60%;
+  margin: 0 auto;
+  padding-top: 1%;
+}
+.p{
+  font-size: 1.5em;
+  margin-bottom: 5%;
+}
+textarea{
+  resize: none;
+}
+form{
+  margin-top: 5%;
+}
+button{
+  margin-bottom: 5%;
+}
