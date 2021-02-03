@@ -79,6 +79,7 @@ $x = count($list);
 <link rel="stylesheet" href="css/top.css">
 <link rel="stylesheet" href="css/all.css">
 <body>
+  dev
   <h1 class="none">サトウのフリマ</h1>
   <header class="d-flex">
     <p class="logo"><img class="logo_img" src="./logo/satou.jpg"></p>
